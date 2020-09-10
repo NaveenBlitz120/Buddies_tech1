@@ -25,7 +25,7 @@ SECRET_KEY = '#x00#rw-lufkvbd^3rv(!kmc0vn4wh6l8bm^l8_jp7p4p8#lj_'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['buddiestech.herokuapp.com','127.0.0.1','buddiesteck.tk']
+ALLOWED_HOSTS = ['buddiestech.herokuapp.com','127.0.0.1','buddiesteck.tk','www.buddiestech.xyz','buddiestech.xyz']
 
 
 # Application definition
